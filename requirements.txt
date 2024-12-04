@@ -1,0 +1,7 @@
+### requirements.txt
+
+```plaintext
+aiogram==3.4.1
+SQLAlchemy
+psycopg2
+requests
