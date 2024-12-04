@@ -13,8 +13,8 @@
 
 1. **Клонируйте репозиторий**:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/pythoneverywhere/telebot_weather.git
+   cd weather_bot
 
 2. Установите зависимости: Убедитесь, что у вас установлен Python 3.8+:
 
