@@ -4,8 +4,8 @@ from handlers import HandlerManager
 from services.queue_manager import QueueManager
 from db.database import setup_database
 
-API_TOKEN = "8158451266:AAHRW6-UgRWNq6O2v7TpBQd7nSAaXilzPz8"
-# yandex key: e1b1140c-fff6-43dc-aa2b-bc59e620c89e
+API_TOKEN = "token"
+# yandex key: key
 
 async def main():
     bot = Bot(token=API_TOKEN)
